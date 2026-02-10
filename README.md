@@ -1,2 +1,1 @@
-# SQL Projects
-## Bank Loan Report Summary
+# SQL Practice
