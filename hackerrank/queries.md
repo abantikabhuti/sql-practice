@@ -1,3 +1,4 @@
+## Hard
 ## Medium
 Generate the following two result sets:
 
