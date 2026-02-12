@@ -1,3 +1,7 @@
+## Difficulty
+- [Hard](#hard)
+- [Medium](#medium)
+- [Easy](#easy)
 ## Hard
 ## Medium
 Generate the following two result sets:
